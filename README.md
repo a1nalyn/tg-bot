@@ -42,8 +42,8 @@ get tg api key - https://my.telegram.org/auth?to=apps
 ```
 
 ```
-BOT_TOKEN - get from @BotFather
-POSTGRES_PASSWORD - change password for postgresSQL
+BOT_TOKEN - 7310902481:AAHFMWzN4c0J5wPgCtSwChK0D1ZDhi0QCpk
+POSTGRES_PASSWORD - nalyn
 CHAT_ID_CHANNEL_LOG - for logs, who uses the bot
 DOWNLOAD_LIMIT - speed download torrent
 WELCOME_VIDEO_ID - tg file id, video hello when used command /start
